@@ -1,7 +1,7 @@
 # RandomQuotes
 Random Quotes Generator
 
-#Group Members
+# Group Members
 Andoch, Ghadi, Michael, Papayaw
 
 ## Usage
