@@ -21,7 +21,6 @@ def addQuote():
     f.write("\n" + quote)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print("RANDOM QUOTES!" + "\n")
     choice = int(input("Press 1 and enter for a random quote, or press 2 and enter to add a quote: "))
