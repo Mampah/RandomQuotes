@@ -1,3 +1,4 @@
+# Group Members : Michael, Andoch
 # importing random library
 import random
 
@@ -34,5 +35,5 @@ if __name__ == '__main__':
     elif choice == 2:
         addQuote()
     else:
-        print("Not a valid choice! Try again.")
+        print("Not a valid choice! Try again.")  # This command will alert users that they entered a wrong input
 
